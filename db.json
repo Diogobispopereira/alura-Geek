@@ -1,0 +1,46 @@
+{
+  "carros": [
+    {
+      "id": "1",
+      "nome": "Plymoutth Fury 1958",
+      "valor": "12.000",
+      "imagem": "https://th.bing.com/th/id/OIP.W1DBetATP84pv0noXjo4wgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+      "id": "2",
+      "nome": "Oakland seda 1925",
+      "valor": "33.000",
+      "imagem": "https://www.classicoseantigos.com/up/1274_1.jpg"
+    },
+    {
+      "id": "4",
+      "nome": "Ford 1941",
+      "valor": "122.00",
+      "imagem": "https://quatrorodas.abril.com.br/wp-content/uploads/2018/11/qr-712-classicos-ford-1941-01-tif-e1543880006670.jpg"
+    },
+    {
+      "id": "5",
+      "nome": "Ford F1000",
+      "valor": "10.000",
+      "imagem": "https://reviewauto.com.br/wp-content/uploads/2022/06/Ford-F-1000-1536x1023.jpg"
+    },
+    {
+      "id": "6",
+      "nome": "Puma GTE",
+      "valor": "90.0000",
+      "imagem": "https://i.pinimg.com/originals/45/21/95/4521953086df5abd55cd17d1edfecda9.jpg"
+    },
+    {
+      "id": "7",
+      "nome": "Miura X8",
+      "valor": "60.0000",
+      "imagem": "https://th.bing.com/th/id/R.03ea303bf8dec8dd64e9f81d7ee2f404?rik=tPaBgp%2fkVhY%2bJg&riu=http%3a%2f%2fmiura.ind.br%2fassets%2fimages%2fx83-800x532-800x532.jpg&ehk=qOcrDOhwJZ76um2vEdqxT2CX7hw4wqfHnu1xlEWIeEM%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "6dd5",
+      "nome": "Celta",
+      "valor": "12.000",
+      "imagem": "https://segredosdomundo.r7.com/wp-content/uploads/2016/12/2-30.jpg"
+    }
+  ]
+}
